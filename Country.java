@@ -12,4 +12,10 @@ public class Country {
 			System.out.println(C[j] +","+ K[j] +"," + a[j]);
 		}
 	}
-		
+	
+		for(int k=4;k>-1;k--) {
+			System.out.println(C[k]);
+		}
+	}
+
+}
